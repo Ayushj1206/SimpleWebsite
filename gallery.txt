@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Online Course In india</title>
+    
+</head>
+<body align="center" background="bggallery.jpg" style="background-repeat:no-repeat;background-size:1500px 1200px" >
+ 
+              <img src="course.jpg" alt="MyOnlineCourse.com" height="60px" width="60px">
+        &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+     
+      
+           <a   href="home.html"  target="_blank"><font color="darkpink" size="5" >Home</a>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+            <a href="aboutus.html"  target="_blank"><font color="darkpink" size="5">About Us</a>&nbsp &nbsp &nbsp &nbsp &nbsp  
+            <a href="gallery.html" target="_blank"><font color="darkpink" size="5">Gallery</a>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+            <a href="courses.html"  target="_blank"><font color="darkpink" size="5">Courses</a>&nbsp &nbsp &nbsp &nbsp&nbsp&nbsp&nbsp
+           <a href="contactus.html"  target="_blank"><font color="darkpink" size="5">Contact Us</a>
+
+  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+          <h1><font  size="15" color="black">Gallery</h1>
+
+        
+           
+                <img src="Clang.jpg" alt="C language" height="200px" width="200px">&nbsp &nbsp
+
+           
+                <img src="C++.jpg" alt="C++ language" height="200px" width="200px">&nbsp &nbsp
+      
+           
+                <img src="php.jpg" alt="Python language" height="200px" width="200px">&nbsp &nbsp
+     
+            
+              <img src="java.jpg" alt="Java language" height="200px" width="200px">&nbsp &nbsp  
+          
+                <img src="python.jpg" alt="PHP" height="200px" width="200px">&nbsp &nbsp 
+
+
+     
+
+
+                <img src="sql.jpg" alt="C language" height="200px" width="200px">&nbsp &nbsp
+
+           
+                <img src="javascript.jpg" alt="C++ language" height="200px" width="200px">&nbsp &nbsp
+      
+           
+                <img src="html.jpg" alt="Python language" height="200px" width="200px">&nbsp &nbsp
+     
+            
+              <img src="css.jpg" alt="Java language" height="200px" width="200px">&nbsp &nbsp  
+          
+                <img src="ruby.jpg" alt="PHP" height="200px" width="200px">&nbsp &nbsp 
+
+
+               
+</body>

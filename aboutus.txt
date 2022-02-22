@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Online Course In india</title>
+  
+
+</head>
+
+<body align="center" background="bgaboutus.jpg" style="background-repeat:no-repeat;background-size:1500px 1200px" >
+
+            <img src="course.jpg" alt="MyOnlineCourse.com" height="60px" width="60px">
+               &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+
+      
+           <a   href="home.html"  target="_blank"><font color="darkpink" size="5" >Home</a>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+            <a href="aboutus.html"  target="_blank"><font color="darkpink" size="5">About Us</a>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+            <a href="gallery.html" target="_blank"><font color="darkpink" size="5">Gallery</a>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+            <a href="courses.html"  target="_blank"><font color="darkpink" size="5">Courses</a>&nbsp &nbsp &nbsp &nbsp&nbsp&nbsp&nbsp
+           <a href="contactus.html"  target="_blank"><font color="darkpink" size="5">Contact Us</a>
+
+  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+
+ 
+
+ 
+ 
+        <h1 ><font  size="15" color="black">ABOUT US</h1>
+
+
+        <p ><font  size="6.5" color="black">In this course we studied about all online computer science courses, which helps in learning all languages related CSE like C, C++, PYTHON,JAVA, JAVA SCRIPT,
+           CSS, HTML, PHP, and many more....., we also learn how to work in LINUX or UBUNTU etc.
+        </p>
+        <p> If you also like to buy books for all this courses then you click on the button below.
+        </p>
+   
+</body>
+</html>
